@@ -1,24 +1,20 @@
 # vue_card_generator
 
+This is a card generator made by Sam Qi.
+
 ## Project setup
+
 ```
 npm install
 ```
 
 ### Compiles and hot-reloads for development
+
 ```
-npm run serve
+npm start
 ```
 
-### Compiles and minifies for production
-```
-npm run build
-```
+### future improvements
 
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+Look into other improvements on how to use Vue.js more effectively.
+Add on some animation.
